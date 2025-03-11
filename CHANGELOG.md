@@ -8,3 +8,5 @@
 - Uploaded the Homework4.cs file
 2/24/2025
 - Uploaded the Homework5.cs file
+3/10/2025
+- Uploaded the Homework6.cs file
